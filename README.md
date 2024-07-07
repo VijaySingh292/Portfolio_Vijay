@@ -1,0 +1,1 @@
+type this in terminal : npm start 
